@@ -14,7 +14,6 @@ export default function Footer() {
         scrub: true,
         start: 'top-=100 center+=50',
         end: 'top center+=50',
-        markers: true,
       },
       opacity: 0,
       translateY: 200
