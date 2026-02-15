@@ -82,9 +82,9 @@ export default function Hero() {
         />
         <h1 id='text' className='absolute top-1/4 text-9xl -rotate-6 font-bold text-white tracking-tighter w-[46vw]'>SPIDERMAN</h1>
 
-        <div id='spiderman' className="absolute top-24 left-1/2 -translate-x-1/2 w-[450px]">
+        <div id='spiderman' className="absolute top-24 left-1/2 -translate-x-1/2 w-112.5">
           <Image
-            src="/spiderman1.png"
+            src="/spiderman3.png"
             width={700}
             height={700}
             alt="spiderman"
